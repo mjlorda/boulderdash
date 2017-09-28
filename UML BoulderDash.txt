@@ -1,0 +1,87 @@
+BoulderDash
+
+
++ avanzar()
++ explotar()
++ getDireccion():Direccion
++ setDireccion(Direccion):void
++ getPosicion():Posicion
+- setPosicion(Posicion)
+
+Personaje
+direccion:Direccion
+avanzar(Direccion)
+explotar
+
+Rockford
+escarbar(Direccion) ?
+empujarRoca(Direccion) ?
+
+
+Escenario
+cantFilas:int
+cantColumnas:int
+casilleros:Casillero[][]
+setCasillero(Casillero, Posicion)
+getCasillero(Posicion):Casillero
+
+
+Casillero
+personaje:Personaje
+setPersonaje(Personaje)
+getPersonaje():Personaje
+
+
+Posicion
+x:int
+y:int
+setX(int)
+setY(int)
+getX():int
+getY():int
+
+
+PersonajeEstacionario 
+estado:Estado
+mover(Direccion)
+setEstado(Estado)
+getEstado():Estado
+
+Roca
+
+Diamante
+
+EspacioVacio
+
+enum Estado
+{ESTACIONARIO, CAYENDO}
+
+enum Direccion
+{IZQUIERDA, DERECHA, ARRIBA, ABAJO}
+
+Mariposa
+
+Luciernaga
+
+Ameba
+
+Suciedad
+
+Muro
+
+MurocComun
+
+MuroMagico
+convertir(PersonajeEstacionario):PersonajeEstacionario
+
+MuroTitanio
+
+Salida
+
+Nivel
+escenario:Escenario
+tiempo:int
+cantDiamantes:int
+vidas:int
+
+
