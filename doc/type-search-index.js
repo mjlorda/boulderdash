@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ar.edu.unlp.info.tallerprogramacion2.boulderdash","l":"Roca"},{"p":"ar.edu.unlp.info.tallerprogramacion2.boulderdash","l":"Rockford"}]
