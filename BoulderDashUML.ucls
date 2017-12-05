@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.animados.Ameba" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/personajes/animados/Ameba.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="259" x="1977" y="1604"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.Salida" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/personajes/Salida.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="259" x="2276" y="1604"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.LugarVacio" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/personajes/LugarVacio.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="167" width="259" x="711" y="1604"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.Basura" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/personajes/Basura.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="259" x="412" y="1604"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.Personaje" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/personajes/Personaje.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="275" width="281" x="1391" y="1289"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" 
+    name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.animados.estacionarios.PersonajeEstacionario" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/personajes/animados/estacionarios/PersonajeEstacionario.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="367" x="1899" y="1937"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" 
+    name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.animados.estacionarios.Diamante" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/personajes/animados/estacionarios/Diamante.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="367" x="1492" y="2244"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" 
+    name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.animados.estacionarios.Roca" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/personajes/animados/estacionarios/Roca.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="367" x="1899" y="2244"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.muros.Muro" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/personajes/muros/Muro.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="338" x="1521" y="1937"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" 
+    name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.muros.MuroMagico" project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/personajes/muros/MuroMagico.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="257" width="338" x="736" y="2244"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" 
+    name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.muros.MuroTitanio" project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/personajes/muros/MuroTitanio.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="77" width="338" x="1114" y="2244"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="12" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.utils.EstadoMagico" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/utils/EstadoMagico.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="231" x="736" y="2541"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="13" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.utils.Posicion" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/utils/Posicion.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="293" width="231" x="1010" y="1604"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.utils.Casillero" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/utils/Casillero.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="113" width="231" x="1837" y="1136"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="15" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.utils.Orientacion" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/utils/Orientacion.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="149" width="231" x="1250" y="1937"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <enumeration id="16" language="java" 
+    name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.utils.EstadoEstacionario" project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/utils/EstadoEstacionario.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="231" x="2306" y="2244"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="17" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.utils.Tablero" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/utils/Tablero.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="185" width="231" x="2283" y="911"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.Nivel" 
+    project="BoulderDash" file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/Nivel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="275" width="211" x="2282" y="596"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.TestBoulderDash" 
+    project="BoulderDash" 
+    file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/TestBoulderDash.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="113" width="239" x="1157" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.Juego" 
+    project="BoulderDash" file="/BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/modelo/Juego.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="509" width="274" x="2552" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="21">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="22">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="23" name="casilleros">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="24" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="25">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="26">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="27" name="estadoMagico">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="28" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="29">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="30" name="tablero">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="31" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="35">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="36" name="nivelActual">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="37" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="39">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="40" name="juego">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="41" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <bendpoint x="2544" y="596"/>    
+    <bendpoint x="2544" y="911"/>    
+    <bendpoint x="2544" y="1136"/>    
+    <bendpoint x="2544" y="1289"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="43" name="salida">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="44" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="46" name="posicion">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="47" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="49" name="personaje">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="50" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="51">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="6"/>  
+  </generalization>  
+  <association id="52">    
+    <bendpoint x="2523" y="596"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="53" name="tablero">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="54" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="56" name="estadoEstacionario">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="57" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

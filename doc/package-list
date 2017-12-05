@@ -1,1 +1,9 @@
-ar.edu.unlp.info.tallerprogramacion2.boulderdash
+ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo
+ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes
+ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.deslizantes
+ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.deslizantes.estacionarios
+ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.deslizantes.muros
+ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.eventos
+ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.personajes.orientables
+ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.utils
+ar.edu.unlp.info.tallerprogramacion2.boulderdash.modelo.utils.mapa

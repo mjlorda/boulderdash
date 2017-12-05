@@ -1,0 +1,3 @@
+WARNING - 01:33:00: First conversion pass
+ERROR - 01:33:00: java.io.FileNotFoundException: /BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/vista/TableroVista.java (No existe el archivo o el directorio)
+ERROR - 01:33:00: java.io.FileNotFoundException: /BoulderDash/src/ar/edu/unlp/info/tallerprogramacion2/boulderdash/vista/TableroVista.java (No existe el archivo o el directorio)
